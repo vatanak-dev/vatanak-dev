@@ -1,14 +1,31 @@
 # Hi, I'm Vatanak! 👋
 
-### 👨‍💻 About Me
-- 🎓 Student at Royal University of Phnom Penh(RUPP)
-- 🤖 IoT Enthusiast working with **Raspberry Pi Pico** and **MicroPython**
-- 🛠️ Currently building: [SmartBin-IoT](https://github.com/vatanak-dev/SmartBin-IoT)
+### 🚀 Aspiring Software Developer & IoT Enthusiast
+I am a developer passionate about building efficient software solutions and smart hardware systems. I specialize in **Java** for application logic and **Python** for IoT projects.
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C programming, C++, Java
-- **Hardware:** Raspberry Pi, Arduino, ESP32
-- **Tools:** Wokwi, Git, VS Code
+---
 
-### 📈 GitHub Stats
-![Vatanak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatanak-dev&show_icons=true)
+### 💻 Technical Expertise
+- **Languages:** `Java` (Core, OOP), `Python` (MicroPython), `C programming`, `C++`
+- **Software Development:** Object-Oriented Programming, Data Structures, Git Version Control
+- **IoT & Hardware:** Raspberry Pi Pico, Sensor Integration, Circuit Design
+- **Tools:** IntelliJ IDEA, VS Code, Wokwi, GitHub
+
+---
+
+### 📂 Featured Projects
+- **[SmartBin-IoT](https://github.com/vatanak-dev/SmartBin-IoT)** - An automated waste system built with MicroPython and Raspberry Pi Pico.
+- *Coming Soon: Java-based Management System (Desktop Application)*
+
+---
+
+### 🎓 Learning Journey
+- 🔭 I’m currently doing most research on advanced **Java Swing/JavaFX** for GUI applications.
+- 🌱 I’m learning how to integrate **Java backend** services with IoT devices.
+- ⚡ Fun fact: I love the challenge of making hardware and software communicate seamlessly!
+
+---
+
+### 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vatanak-vut-25a5443b4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vatanakvut18@gmail.com)
